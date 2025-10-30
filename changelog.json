@@ -5,7 +5,7 @@
     "items": [
       {
         "title": "Initial release",
-        "type": "BREAKING_CHANGE",
+        "type": "BREAKING_CHANGE"
       }
     ]
   }
