@@ -5,7 +5,7 @@
     "items": [
       {
         "title": "Initial release",
-        "type": "IMPROVEMENT",
+        "type": "BREAKING_CHANGE",
       }
     ]
   }
