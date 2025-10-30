@@ -1,1 +1,11 @@
-
+[
+  {
+    "version": "0.0.0",
+    "releasedAt": "2025-06-01T10:24:00.000Z",
+    "items": [
+      {
+        "title": "Initial release"
+      }
+    ]
+  }
+]
