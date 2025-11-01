@@ -1,11 +1,63 @@
 [
   {
+    "version": "0.0.3-rc.22",
+    "releasedAt": "2025-10-31T12:00:00.000Z",
+    "items": [
+      {
+        "type": "IMPROVEMENT",
+        "title": "Projects",
+        "details": "Покращено структуру відображення списку проектів."
+      },
+      {
+        "type": "FEATURE",
+        "title": "Projects",
+        "details": "Додано вибір ключа та напряму сортування списку проектів."
+      },
+      {
+        "type": "IMPROVEMENT",
+        "title": "Persons",
+        "details": "Покращено структуру відображення списку персон."
+      },
+      {
+        "type": "FEATURE",
+        "title": "Persons",
+        "details": "Додано вибір ключа та напряму сортування списку персон."
+      }
+    ]
+  },
+  {
+    "version": "0.0.3-rc.21",
+    "releasedAt": "2025-10-31T12:00:00.000Z",
+    "items": [
+      {
+        "type": "FIX",
+        "title": "Projects",
+        "details": "Виправлення відображення сторінки учасників в модулі проектів"
+      },
+      {
+        "type": "FIX",
+        "title": "Persons",
+        "details": "Виправлення відображення сторінки проектів в модулі персон"
+      },
+      {
+        "type": "FIX",
+        "title": "Controls mobile page",
+        "details": "Видалено заглушки на сторінці контроля для мобільної версії."
+      },
+      {
+        "type": "FIX",
+        "title": "Finance Transaction arrows",
+        "details": "Уніфіковано напрям стрілок для транзакцій в додатку."
+      }
+    ]
+  },
+  {
     "version": "0.0.3-rc.20",
     "releasedAt": "2025-10-31T12:00:00.000Z",
     "items": [
       {
         "type": "FIX",
-        "title": "Проекти",
+        "title": "Projects",
         "details": "Виправлення UI карточки відображення проекту в загальному списку"
       },
       {
