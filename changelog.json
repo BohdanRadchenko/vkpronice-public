@@ -12,6 +12,16 @@
         "type": "IMPROVEMENT",
         "title": "Збільшення компресії",
         "details": "Покращено рівень компресії зображень для оптимізації розміру файлів."
+      },
+      {
+        "type": "FIX",
+        "title": "Person details wallet",
+        "details": "Виправлено підрахунок expense для person details wallet."
+      },
+      {
+        "type": "FIX",
+        "title": "Project card / details mob",
+        "details": "Мінор фікси project card / details mob."
       }
     ]
   },
