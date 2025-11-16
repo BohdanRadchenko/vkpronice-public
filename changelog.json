@@ -1,5 +1,26 @@
 [
   {
+    "version": "0.0.3-rc.34",
+    "releasedAt": "2025-11-16T15:00:00.000Z",
+    "items": [
+      {
+        "type": "FIX",
+        "title": "Person details wallet",
+        "details": "Виправлено підрахунок expense для person details wallet."
+      },
+      {
+        "type": "FIX",
+        "title": "Project card / details mob",
+        "details": "Мінор фікси project card / details mob."
+      },
+      {
+        "type": "IMPROVEMENT",
+        "title": "Project",
+        "details": "Додано міграцію для синхронізації project.strted_at відповідно до першої transaction.date"
+      }
+    ]
+  },
+  {
     "version": "0.0.3-rc.33",
     "releasedAt": "2025-11-16T12:00:00.000Z",
     "items": [
