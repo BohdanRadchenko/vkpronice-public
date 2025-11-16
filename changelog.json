@@ -1,5 +1,16 @@
 [
   {
+    "version": "0.0.3-rc.32",
+    "releasedAt": "2025-11-15T12:00:00.000Z",
+    "items": [
+      {
+        "type": "WORSENING",
+        "title": "Локалізація",
+        "details": "Імплементовано підтримку мови ru."
+      }
+    ]
+  },
+  {
     "version": "0.0.3-rc.31",
     "releasedAt": "2025-11-15T12:00:00.000Z",
     "items": [
